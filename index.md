@@ -12,10 +12,11 @@ This portfolio contains my research and practice cases in ethical hacking.
 ---
 
 ## 🛠 Skills
-- Web Security: SQL Injection, XSS, Google Dorking, basic DDoS testing  
-- Tools: Kali Linux, nmap, sqlmap, BurpSuite, Hydra  
-- Platforms: DVWA, HackTheBox, TryHackMe  
+- Web Security: SQL Injection, XSS, Google Dorking, basic DDoS testing
+- Tools: Kali Linux, nmap, sqlmap, BurpSuite, Hydra
+- Platforms: DVWA, HackTheBox, TryHackMe
 - Reconnaissance / OSINT: Google Dorking, information gathering
+
 ---
 
 ## 📂 Projects
