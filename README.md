@@ -1,3 +1,7 @@
+layout: default
+title: "Penetration Testing Portfolio"
+css: /assets/css/style.css
+
 # 🔐 Penetration Testing Portfolio
 
 Welcome! My name is **[Your Name]** and I specialize in **web application security** and **penetration testing**.  
