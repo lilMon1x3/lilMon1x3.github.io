@@ -31,14 +31,16 @@ Here you can find my write-ups, security research, and personal projects.
 ---
 
 ## 📂 Projects
-### 🔎 SQL Injection — DVWA
-[Read case study](./sql-injection-dvwa/report.md)
 
-### 💻 XSS — DVWA
-[Read case study](./xss-dvwa/report.md)
+**🕵️ Penetration Testing (DVWA)**
+- 🔎 [SQL Injection](./sql-injection-dvwa/report.md)  
+- 💻 [XSS Attacks](./xss-dvwa/report.md)  
 
-### 🌐 Google Dorking Examples
-[Read case study](./google-dorking/report.md)
+**🌍 Reconnaissance / OSINT**
+- 🌐 [Google Dorking](./google-dorking/report.md)  
+
+**🎯 Capture the Flag (TryHackMe / HackTheBox)**
+- 🚀 Coming soon...
 
 ---
 
