@@ -1,7 +1,3 @@
-layout: default
-title: "Penetration Testing Portfolio"
-css: /assets/css/style.css
-
 # 🔐 Penetration Testing Portfolio
 
 Welcome! My name is **Ladislav** and I specialize in **web application security** and **penetration testing**.  
