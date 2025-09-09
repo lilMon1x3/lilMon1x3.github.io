@@ -25,6 +25,9 @@ This portfolio contains my research and practice cases in ethical hacking.
 ### 💻 XSS — DVWA
 [Read case study](./xss-dvwa/report.md)
 
+### 🌐 Google Dorking
+[Read case study](./google-dorking/report.md)
+
 ---
 
 ## 🎯 Goals
