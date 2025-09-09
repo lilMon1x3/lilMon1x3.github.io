@@ -6,10 +6,27 @@ Here you can find my write-ups, security research, and personal projects.
 ---
 
 ## 🛠 Skills
-- **Web Security:** SQL Injection, XSS, Google Dorking, basic DDoS testing  
-- **Tools:** Kali Linux, nmap, sqlmap, BurpSuite, Hydra  
-- **Platforms:** DVWA, HackTheBox, TryHackMe  
-- **Reconnaissance / OSINT:** Google Dorking, information gathering
+
+**🔐 Web Security**
+- SQL Injection
+- XSS
+- Google Dorking
+- Basic DDoS testing
+
+**🧰 Tools**
+- Kali Linux
+- nmap, sqlmap
+- BurpSuite
+- Hydra
+
+**💻 Platforms**
+- DVWA
+- HackTheBox
+- TryHackMe
+
+**🌍 Reconnaissance / OSINT**
+- Google Dorking
+- Information gathering
 
 ---
 
