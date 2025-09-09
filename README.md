@@ -4,7 +4,7 @@ css: /assets/css/style.css
 
 # 🔐 Penetration Testing Portfolio
 
-Welcome! My name is **[Your Name]** and I specialize in **web application security** and **penetration testing**.  
+Welcome! My name is **Ladislav** and I specialize in **web application security** and **penetration testing**.  
 Here you can find my write-ups, security research, and personal projects.  
 
 ---
