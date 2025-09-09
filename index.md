@@ -5,7 +5,29 @@ title: "Penetration Testing Portfolio"
 
 # 🔐 Penetration Testing Portfolio
 
-Welcome! My name is **Ladislav** and I specialize in **web application security** and **penetration testing**.  
-Here you can find my write-ups, security research, and personal projects.  
+Hi, my name is **Ladislav**.  
+I focus on **web application security** and penetration testing.  
+This portfolio contains my research and practice cases in ethical hacking.  
 
-[View SQL Injection Case Study](./sql-injection-dvwa/report.md)
+---
+
+## 🛠 Skills
+- Web Security: SQL Injection, XSS, Google Dorking, basic DDoS testing  
+- Tools: Kali Linux, nmap, sqlmap, BurpSuite, Hydra  
+- Platforms: DVWA, HackTheBox, TryHackMe  
+
+---
+
+## 📂 Projects
+### 🔎 SQL Injection — DVWA
+[Read case study](./sql-injection-dvwa/report.md)
+
+### 💻 XSS — DVWA
+[Read case study](./xss-dvwa/report.md)
+
+---
+
+## 🎯 Goals
+- Keep learning penetration testing  
+- Start contributing to open-source security projects  
+- Prepare for bug bounty and remote security roles
