@@ -40,7 +40,8 @@ Here you can find my write-ups, security research, and personal projects.
 - 🌐 [Google Dorking](./google-dorking/report.md)  
 
 **🎯 Capture the Flag (TryHackMe / HackTheBox)**
-- 🚀 Coming soon...
+- [Pickle Rick CTF (TryHackMe)](pickle-rick/report.md)  
+  *Web exploitation, privilege escalation, sudo misconfiguration*
 
 ---
 
