@@ -46,7 +46,8 @@ This portfolio contains my research and practice cases in ethical hacking.
 - 🌐 [Google Dorking](./google-dorking/report.md)  
 
 **🎯 Capture the Flag (TryHackMe / HackTheBox)**
-- 🚀 Coming soon...
+- [Pickle Rick CTF (TryHackMe)](pickle-rick/report.md)  
+  *Web exploitation, privilege escalation, sudo misconfiguration*
 
 ---
 
