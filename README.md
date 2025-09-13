@@ -43,6 +43,9 @@ Here you can find my write-ups, security research, and personal projects.
 - [Pickle Rick CTF (TryHackMe)](pickle-rick/report.md)  
   *Web exploitation, privilege escalation, sudo misconfiguration*
 
+- [Mr. Robot CTF (TryHackMe)](mr-robot/report.md)  
+  *WordPress exploitation, hash cracking, SUID nmap to root*
+
 ---
 
 ## 🎯 Goals
