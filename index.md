@@ -49,6 +49,9 @@ This portfolio contains my research and practice cases in ethical hacking.
 - [Pickle Rick CTF (TryHackMe)](pickle-rick/report.md)  
   *Web exploitation, privilege escalation, sudo misconfiguration*
 
+- [Mr. Robot CTF (TryHackMe)](mr-robot/report.md)  
+  *WordPress exploitation, hash cracking, SUID nmap to root*
+
 ---
 
 ## 🎯 Goals
