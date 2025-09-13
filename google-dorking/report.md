@@ -1,25 +1,62 @@
 # Google Dorking — Information Gathering
 
-## 🎯 Objective
-Use Google Dorking techniques to identify publicly exposed information and potential vulnerabilities.
+> Note: This document demonstrates Google Dorking as a reconnaissance technique for educational purposes. Do not use these techniques for unauthorized scanning or information theft.
 
-## 🛠 Tools
-- Google Search
-- Advanced search operators
+---
 
-## 🔎 Examples
-1. Find login pages: inurl:login.php
-2. Find exposed database files: filetype:sql site:example.com
-3. Find configuration files: ext:ini OR ext:conf OR ext:env site:example.com
-4. Find cameras and IoT devices: inurl:/view.shtml
+## TL;DR
 
-## ✅ Result
-- Demonstrated how sensitive files, admin panels, or devices can be indexed by Google.  
-- Proved the importance of restricting search engine crawling and securing configuration files.  
+* Objective: Use advanced Google search operators ("dorks") to discover publicly exposed information, configuration files, admin panels, and potentially vulnerable endpoints.
+* Outcome: Demonstrated how sensitive files, admin panels, and devices can be indexed by search engines and why this is a significant reconnaissance vector.
 
-## 📌 Conclusion
-Google Dorking is a powerful **reconnaissance technique**.  
-Mitigation steps:
-- Use `robots.txt` to restrict crawling.  
-- Protect sensitive files with authentication.  
-- Never expose `.sql`, `.conf`, or `.env` files publicly.  
+---
+
+## Environment / scope
+
+* Tools: Google Search (advanced operators), browser.
+* Use-case: Open-source intelligence (OSINT) and reconnaissance during security assessments.
+
+---
+
+## Examples of useful dorks
+
+**Common operators and examples:**
+
+```text
+# find login pages
+inurl:login.php
+
+# find exposed SQL dumps on a domain
+filetype:sql site:example.com
+
+# find configuration files
+ext:ini OR ext:conf OR ext:env site:example.com
+
+# find camera/web interface pages
+inurl:/view.shtml
+```
+
+**Notes:**
+
+* Combine operators to narrow results (e.g., `site:example.com inurl:admin ext:php`).
+* Be cautious and respect robots and site terms of service.
+
+---
+
+## Results / impact
+
+* Google Dorking can reveal accidental exposures of sensitive files (backups, DB dumps), admin interfaces, and IoT devices.
+* The technique is valuable for red teams and penetration testers during information gathering and for defenders to validate what their organization unintentionally exposes.
+
+---
+
+## Mitigation & best practices
+
+* Use `robots.txt` to guide crawlers (do not rely on it as a security control).
+* Ensure all sensitive files are access-controlled and not publicly accessible.
+* Remove or restrict indexing of staging/dev sites and backups.
+* Monitor for public exposures using automated tools and alerts.
+
+---
+
+*End of report.*
